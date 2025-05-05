@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 </div>
 
 ### زنجیره فعالیت
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=highcontrast" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Argh94&theme=highcontrast" />
