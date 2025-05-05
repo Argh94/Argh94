@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=سلام!+👋;من+[A.R.Gh]+هستم!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=سلام!+👋+👨‍💻;من+[A.R.Gh]+هستم!;" />
 </h1>
 
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
@@ -46,3 +46,6 @@ Here are some ideas to get you started:
 </h1>
 
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Amiri&size=48¢er=true&vCenter=true&width=600&height=70&color=00FF7F&duration=3000&lines=سلام!+👨‍💻;من+[نام+تو]+هستم!;توسعه‌دهنده+وب+و+اتوماسیون" />
+</h1>
