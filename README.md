@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Argh94/Argh94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,5 +37,5 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-### فعالیت‌های من
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Argh94&theme=dracula" />
+### زنجیره فعالیت
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=highcontrast" />
