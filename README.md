@@ -37,5 +37,6 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-### زنجیره فعالیت
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Argh94&theme=highcontrast" />
+
+### در حال گوش دادن
+<img src="https://spotify-github-profile.vercel.app/api/spotify?username=Argh94&theme=dark" />
