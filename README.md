@@ -46,6 +46,3 @@ Here are some ideas to get you started:
 </h1>
 
 
-<h1 align="center">
-  <img src="https://github.com/Argh94/Argh94/blob/main/welcome-nastaliq.png" alt="خوش‌آمدگویی نستعلیق">
-</h1>
