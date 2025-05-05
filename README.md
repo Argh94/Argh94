@@ -23,3 +23,7 @@ Here are some ideas to get you started:
 
 ![آمار GitHub](https://github-readme-stats.vercel.app/api?username=Argh94&show_icons=true&theme=radical)
 ![زبان‌های برتر](https://github-readme-stats.vercel.app/api/top-langs?username=Argh94&show_icons=true&theme=radical)
+
+### پروژه‌های من
+- [auto-warp-config](https://github.com/yourusername/auto-warp-config): ابزار تولید تنظیمات WARP
+- [multi-proxy-config-fetcher](https://github.com/yourusername/multi-proxy-config-fetcher): ابزار دریافت تنظیمات پروکسی
