@@ -38,3 +38,5 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+### نقل‌قول روز
+> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
