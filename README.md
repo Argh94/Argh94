@@ -53,4 +53,9 @@ Here are some ideas to get you started:
 
 
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Droid+Arabic+Naskh&size=48¢er=true&vCenter=true&width=600&height=70&color=00FF7F&duration=3000&lines=سلام!+👨‍💻;من+[نام+تو]+هستم!;توسعه‌دهنده+وب+و+اتوماسیون" />
+</h1>
+
+
 
