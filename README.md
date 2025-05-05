@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=سلام!+👋;من+[A.R.Gh]+هستم!;" />
 </h1>
+
+<img src="https://github.com/yourusername/yourusername/blob/main/your-banner.png" alt="بنر پروفایل">
