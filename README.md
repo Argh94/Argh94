@@ -36,5 +36,8 @@ Here are some ideas to get you started:
 </div>
 
 ![بازدیدها](https://visitor-badge.glitch.me/badge?page_id=Argh94.yourusername)
-
+### مهارت‌ها
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+<br>
 <img src="https://skill-icons.dev/icons?i=js,bash" />
