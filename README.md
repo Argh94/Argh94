@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 </div>
 
 
-### در حال گوش دادن
-<img src="https://spotify-github-profile.vercel.app/api/spotify?username=Argh94&theme=dark" />
+### مسیر کد
+<img src="https://github.com/yourusername/Argh94/blob/output/snake.svg" />
