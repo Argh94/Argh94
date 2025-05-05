@@ -39,5 +39,3 @@ Here are some ideas to get you started:
 
 
 
-### رتبه Codewars
-<img src="https://www.codewars.com/users/Argh94/badges/large" />
