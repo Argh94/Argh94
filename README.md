@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![زبان‌های برتر](https://github-readme-stats.vercel.app/api/top-langs?username=Argh94&show_icons=true&theme=radical)
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:your.argh7394@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/yourprofile">
