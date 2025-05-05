@@ -46,3 +46,6 @@ Here are some ideas to get you started:
 
 
 
+<h1 align="center">
+  <img src="https://github.com/Argh94/Argh94/blob/main/typing-animation.gif" alt="انیمیشن تایپ">
+</h1>
