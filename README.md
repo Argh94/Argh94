@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
-<img src="https://skill-icons.dev/icons?i=python,linux,git" />
+
+![آمار GitHub](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![زبان‌های برتر](https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&theme=radical)
