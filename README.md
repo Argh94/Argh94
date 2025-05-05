@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 
-![آمار GitHub](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![زبان‌های برتر](https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&theme=radical)
+![آمار GitHub](https://github-readme-stats.vercel.app/api?username=Argh94&show_icons=true&theme=radical)
+![زبان‌های برتر](https://github-readme-stats.vercel.app/api/top-langs?username=Argh94&show_icons=true&theme=radical)
