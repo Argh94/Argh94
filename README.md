@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 </h1>
 
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 
 ![آمار GitHub](https://github-readme-stats.vercel.app/api?username=Argh94&show_icons=true&theme=radical)
