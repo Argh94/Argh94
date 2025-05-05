@@ -24,6 +24,12 @@ Here are some ideas to get you started:
 ![آمار GitHub](https://github-readme-stats.vercel.app/api?username=Argh94&show_icons=true&theme=radical)
 ![زبان‌های برتر](https://github-readme-stats.vercel.app/api/top-langs?username=Argh94&show_icons=true&theme=radical)
 
-### پروژه‌های من
-- [auto-warp-config](https://github.com/yourusername/auto-warp-config): ابزار تولید تنظیمات WARP
-- [multi-proxy-config-fetcher](https://github.com/yourusername/multi-proxy-config-fetcher): ابزار دریافت تنظیمات پروکسی
+<div align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
