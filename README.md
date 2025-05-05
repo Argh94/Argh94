@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 </div>
 
 
-### آب‌وهوا در [شهر شما]
-<img src="https://wttr.in/yourcity.png" />
+### دستاوردها
+<img src="https://github-profile-trophy.vercel.app/?username=Argh94&theme=onedark" />
