@@ -38,5 +38,6 @@ Here are some ideas to get you started:
 </div>
 
 
-### دستاوردها
-<img src="https://github-profile-trophy.vercel.app/?username=Argh94&theme=onedark" />
+
+### رتبه Codewars
+<img src="https://www.codewars.com/users/Argh94/badges/large" />
