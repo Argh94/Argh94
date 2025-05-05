@@ -35,4 +35,6 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-![بازدیدها](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
+![بازدیدها](https://visitor-badge.glitch.me/badge?page_id=Argh94.yourusername)
+
+<img src="https://skill-icons.dev/icons?i=js,bash" />
