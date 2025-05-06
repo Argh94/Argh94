@@ -38,13 +38,23 @@ Here are some ideas to get you started:
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 
-![آمار GitHub](https://github-readme-stats.vercel.app/api?username=Argh94&show_icons=true&theme=radical)
-![زبان‌های برتر](https://github-readme-stats.vercel.app/api/top-langs?username=Argh94&show_icons=true&theme=radical)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Argh94&show_icons=true&theme=radical">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Argh94&show_icons=true&theme=github_light">
+  <img alt="آمار GitHub" src="https://github-readme-stats.vercel.app/api?username=Argh94&show_icons=true&theme=github_light">
+</picture>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Argh94&show_icons=true&theme=radical">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Argh94&show_icons=true&theme=github_light">
+  <img alt="زبان‌های برتر" src="https://github-readme-stats.vercel.app/api/top-langs?username=Argh94&show_icons=true&theme=github_light">
+</picture>)
 
 
 
 
-### مسیر کدنویسی من 🐍
 <br clear="both">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Argh94/Argh94/output/snake-dark.svg">
