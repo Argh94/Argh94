@@ -1,4 +1,3 @@
-
 <!--
 **Argh94/Argh94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +15,10 @@ Here are some ideas to get you started:
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Amiri&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=سلام!+👋;من+👨‍💻+[A.R.Gh]+هستم!;" />
 </h1>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
