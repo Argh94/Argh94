@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 
 
 
-### فعالیت‌های من به سبک پک‌من! 🎮
-
-
-
+### مسیر کدنویسی من 🐍
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Argh94/Argh94/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Argh94/Argh94/output/snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Argh94/Argh94/output/snake.svg">
+</picture>
