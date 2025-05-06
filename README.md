@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Argh94&show_icons=true&theme=radical">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Argh94&show_icons=true&theme=github_light">
   <img alt="زبان‌های برتر" src="https://github-readme-stats.vercel.app/api/top-langs?username=Argh94&show_icons=true&theme=github_light">
-</picture>)
+</picture>
 
 
 
