@@ -43,6 +43,10 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.herokuapp.com/?font=Amiri&size=48¢er=true&vCenter=true&width=600&height=70&color=00FF7F&duration=3000&lines=سلام!+👨‍💻;من+[نام+تو]+هستم!;توسعه‌دهنده+وب+و+اتوماسیون" />
 </h1>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Amiri&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=سلام!+👋;من+👨‍💻+[A.R.Gh]+هستم!;" />
+</h1>
+
 
 
 <h1 align="center">
