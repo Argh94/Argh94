@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 
 
-<br clear="both">
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Argh94/Argh94/output/pacman-contribution-graph-dark.svg">
