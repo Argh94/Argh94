@@ -33,11 +33,6 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.herokuapp.com/?font=Amiri&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=سلام!+👋;من+👨‍💻+[A.R.Gh]+هستم!;" />
 </h1>
 
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Argh94&show_icons=true&theme=radical">
