@@ -60,10 +60,3 @@ Here are some ideas to get you started:
 
 
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/username/username/main/profile-3d-contrib/night.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Argh94/Argh94/main/profile-3d-contrib/day.svg" />
-    <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/Argh94/Argh94/main/profile-3d-contrib/night.svg" />
-  </picture>
-</p>
