@@ -51,14 +51,12 @@ Here are some ideas to get you started:
 ![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)
 
 
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Argh94/Argh94/main/profile-3d-contrib/night.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Argh94/Argh94/main/profile-3d-contrib/day.svg" />
-    <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/username/username/main/profile-3d-contrib/night.svg" />
-  </picture>
-</p>
+<br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Argh94/Argh94/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Argh94/Argh94/output/snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Argh94/Argh94/output/snake.svg">
+</picture>
 
 
 
