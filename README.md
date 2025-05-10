@@ -51,12 +51,8 @@ Here are some ideas to get you started:
 ![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)
 
 
-<br clear="both">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Argh94/Argh94/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Argh94/Argh94/output/snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Argh94/Argh94/output/snake.svg">
-</picture>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
 
