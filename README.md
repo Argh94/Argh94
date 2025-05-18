@@ -34,7 +34,24 @@ Here are some ideas to get you started:
 </h1>
 
 
-<div style="display: flex; gap: 20px;"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Argh94&show_icons=true&theme=radical"> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Argh94&show_icons=true&theme=github_light"> <img alt="آمار GitHub" src="https://github-readme-stats.vercel.app/api?username=Argh94&show_icons=true&theme=github_light"> </picture> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Argh94&show_icons=true&theme=radical"> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Argh94&show_icons=true&theme=github_light"> <img alt="زبان‌های برتر" src="https://github-readme-stats.vercel.app/api/top-langs?username=Argh94&show_icons=true&theme=github_light"> </picture> </div>
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Argh94&show_icons=true&theme=radical">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Argh94&show_icons=true&theme=github_light">
+        <img alt="آمار GitHub" src="https://github-readme-stats.vercel.app/api?username=Argh94&show_icons=true&theme=github_light" width="100%">
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Argh94&show_icons=true&theme=radical">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Argh94&show_icons=true&theme=github_light">
+        <img alt="زبان‌های برتر" src="https://github-readme-stats.vercel.app/api/top-langs?username=Argh94&show_icons=true&theme=github_light" width="100%">
+      </picture>
+    </td>
+  </tr>
+</table>
 
 
 <!-- Argh--> 
