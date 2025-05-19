@@ -58,9 +58,9 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Argh94/Argh94/main/images/animation-dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Argh94/Argh94/main/images/animation-light.gif">
-    <img src="https://raw.githubusercontent.com/Argh94/Argh94/main/images/animation-light.gif" alt="Animation" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Argh94/Argh94/main/images/825.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Argh94/Argh94/main/images/825.gif">
+    <img src="https://raw.githubusercontent.com/Argh94/Argh94/main/images/825.gif" alt="Animation" width="100%">
 </picture>
 
 <br clear="both">
