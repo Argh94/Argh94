@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/dark-theme.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="profile-night-rainbow-with-border.svg">
     <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/light-theme.svg">
     <img src="profile-3d-contrib/light-theme.svg" alt="3D Contribution Graph">
   </picture>
