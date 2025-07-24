@@ -18,6 +18,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Pull latest changes
+        run: |
+          git pull origin main --rebase
       - name: Commit & Push Generated Files
         run: |
           git config user.name github-actions
@@ -33,6 +36,9 @@ jobs:
     needs: generate
     steps:
       - uses: actions/checkout@v4
+      - name: Pull latest changes
+        run: |
+          git pull origin main --rebase
       - name: Copy SVG Files for Dynamic Theme
         run: |
           # چک کردن وجود فایل‌های منبع
