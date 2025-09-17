@@ -69,3 +69,14 @@ Here are some ideas to get you started:
     <img src="profile-3d-contrib/light-theme.svg" alt="3D Contribution Graph">
   </picture>
 </div>
+
+
+
+<a href="https://github.com/Argh94/Argh94-stats#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/Argh94/Argh94-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Overview" width="100%" />
+  <img src="https://raw.githubusercontent.com/Argh94/Argh94-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Languages" width="100%" />
+</a>
+<a href="https://github.com/Argh94/Argh94-stats#gh-light-mode-only">
+  <img src="https://raw.githubusercontent.com/Argh94/Argh94-stats/master/generated/overview.svg#gh-light-mode-only" alt="Overview" width="100%" />
+  <img src="https://raw.githubusercontent.com/Argh94/Argh94-stats/master/generated/languages.svg#gh-light-mode-only" alt="Languages" width="100%" />
+</a>
