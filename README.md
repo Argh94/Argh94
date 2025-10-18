@@ -33,15 +33,7 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.herokuapp.com/?font=Amiri&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=سلام!+👋;من+👨‍💻+[A.R.Gh]+هستم!;" />
 </h1>
 
-<div align="center">
-
-[![GitHub stats - Dark](https://github-readme-stats.vercel.app/api?username=Argh94&show_icons=true&theme=dark&cache_seconds=3600&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![GitHub stats - Light](https://github-readme-stats.vercel.app/api?username=Argh94&show_icons=true&theme=github_light&cache_seconds=3600&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-[![Top Languages - Dark](https://github-readme-stats.vercel.app/api/top-langs?username=Argh94&show_icons=true&theme=dark&cache_seconds=3600&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Languages - Light](https://github-readme-stats.vercel.app/api/top-langs?username=Argh94&show_icons=true&theme=github_light&cache_seconds=3600&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-</div>
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Argh94&show_icons=true&theme=radical&cache_seconds=3600&hide_border=true"> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Argh94&show_icons=true&theme=github_light&cache_seconds=3600&hide_border=true"> <img alt="آمار GitHub" src="https://github-readme-stats.vercel.app/api?username=Argh94&show_icons=true&theme=github_light&cache_seconds=3600&hide_border=true" width="48%"> </picture> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Argh94&show_icons=true&theme=radical&cache_seconds=3600&hide_border=true"> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Argh94&show_icons=true&theme=github_light&cache_seconds=3600&hide_border=true"> <img alt="زبان‌های برتر" src="https://github-readme-stats.vercel.app/api/top-langs?username=Argh94&show_icons=true&theme=github_light&cache_seconds=3600&hide_border=true" width="48%"> </picture> </div>
 
 
 <picture>
