@@ -35,20 +35,26 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Argh94&show_icons=true&theme=dark&cache_seconds=86400&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Argh94&show_icons=true&theme=transparent&cache_seconds=86400&hide_border=true">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Argh94&show_icons=true&theme=transparent&cache_seconds=86400&hide_border=true">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Argh94&show_icons=true&theme=dark&cache_seconds=86400&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Argh94&show_icons=true&theme=transparent&cache_seconds=86400&hide_border=true">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Argh94&show_icons=true&theme=transparent&cache_seconds=86400&hide_border=true">
-</picture>
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Argh94&show_icons=true&theme=dark&cache_seconds=86400&hide_border=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Argh94&show_icons=true&theme=transparent&cache_seconds=86400&hide_border=true">
+        <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Argh94&show_icons=true&theme=transparent&cache_seconds=86400&hide_border=true" width="100%">
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Argh94&show_icons=true&theme=dark&cache_seconds=86400&hide_border=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Argh94&show_icons=true&theme=transparent&cache_seconds=86400&hide_border=true">
+        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Argh94&show_icons=true&theme=transparent&cache_seconds=86400&hide_border=true" width="100%">
+      </picture>
+    </td>
+  </tr>
+</table>
 
 </div>
-
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Argh94/Argh94/main/images/animation-dark.gif">
