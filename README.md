@@ -34,34 +34,26 @@ Here are some ideas to get you started:
 </h1>
 
 
-<div align="center">
-
 <table>
   <tr>
-    <td>
+    
+   <td align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Argh94&show_icons=true&theme=dark&cache_seconds=86400&hide_border=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Argh94&show_icons=true&theme=transparent&cache_seconds=86400&hide_border=true">
-        <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Argh94&show_icons=true&theme=transparent&cache_seconds=86400&hide_border=true" width="100%">
+        <source media="(prefers-color-scheme: dark)" srcset="https://beautiful-github-homepage.vercel.app/api?username=Argh94&theme=dark&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+        <source media="(prefers-color-scheme: light)" srcset="https://beautiful-github-homepage.vercel.app/api?username=Argh94&theme=light&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+        <img alt="Giromo's GitHub Stats" src="https://beautiful-github-homepage.vercel.app/api?username=Argh94&theme=light&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="100%">
       </picture>
     </td>
-    <td>
+ <!-- Top Languages با donut-vertical -->
+    <td align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Argh94&show_icons=true&theme=dark&cache_seconds=86400&hide_border=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Argh94&show_icons=true&theme=transparent&cache_seconds=86400&hide_border=true">
-        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Argh94&show_icons=true&theme=transparent&cache_seconds=86400&hide_border=true" width="100%">
+        <source media="(prefers-color-scheme: dark)" srcset="https://beautiful-github-homepage.vercel.app/api/top-langs?username=Argh94&layout=donut-vertical&theme=dark&hide_border=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://beautiful-github-homepage.vercel.app/api/top-langs?username=Argh94&layout=donut-vertical&theme=light&hide_border=true">
+        <img alt="Giromo's Top Languages" src="https://beautiful-github-homepage.vercel.app/api/top-langs?username=Argh94&layout=donut-vertical&theme=light&hide_border=true" width="100%">
       </picture>
     </td>
   </tr>
 </table>
-
-</div>
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Argh94/Argh94/main/images/animation-dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Argh94/Argh94/main/images/animation-light.gif">
-    <img src="https://raw.githubusercontent.com/Argh94/Argh94/main/images/animation-light.gif" alt="Animation" width="100%">
-</picture>
 
 
 
