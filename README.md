@@ -34,26 +34,7 @@ Here are some ideas to get you started:
 </h1>
 
 
-<table>
-  <tr>
-    
-   <td align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://beautiful-github-homepage.vercel.app/api?username=Argh94&theme=dark&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
-        <source media="(prefers-color-scheme: light)" srcset="https://beautiful-github-homepage.vercel.app/api?username=Argh94&theme=light&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
-        <img alt="Giromo's GitHub Stats" src="https://beautiful-github-homepage.vercel.app/api?username=Argh94&theme=light&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="100%">
-      </picture>
-    </td>
- <!-- Top Languages با donut-vertical -->
-    <td align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://beautiful-github-homepage.vercel.app/api/top-langs?username=Argh94&layout=donut-vertical&theme=dark&hide_border=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://beautiful-github-homepage.vercel.app/api/top-langs?username=Argh94&layout=donut-vertical&theme=light&hide_border=true">
-        <img alt="Giromo's Top Languages" src="https://beautiful-github-homepage.vercel.app/api/top-langs?username=Argh94&layout=donut-vertical&theme=light&hide_border=true" width="100%">
-      </picture>
-    </td>
-  </tr>
-</table>
+
 
 
 
