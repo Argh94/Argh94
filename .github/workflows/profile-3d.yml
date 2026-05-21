@@ -21,7 +21,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          # YEAR و SETTING_JSON را فعلاً حذف کردیم
+          # YEAR رو حذف یا کامنت کردیم چون برای سال جاری مناسب نیست
 
       - name: Commit and Push Generated Files
         run: |
