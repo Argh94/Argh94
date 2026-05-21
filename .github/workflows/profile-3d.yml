@@ -21,7 +21,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          # YEAR: "2026"   # این کار نمی‌کنه برای سال جاری
+          SETTING_JSON: ".github/profile-settings.json"   # ← اضافه شد
 
       - name: Commit and Push Generated Files
         run: |
@@ -40,7 +40,6 @@ jobs:
 
   manage-theme:
     runs-on: ubuntu-latest
-    name: manage-dynamic-theme
     needs: generate
     steps:
       - uses: actions/checkout@v6
@@ -51,7 +50,6 @@ jobs:
         run: |
           mkdir -p profile-3d-contrib
           
-          # کپی تم‌های اصلی
           if [ -f profile-3d-contrib/profile-green.svg ]; then
             cp profile-3d-contrib/profile-green.svg profile-3d-contrib/light-theme.svg
           fi
@@ -59,9 +57,11 @@ jobs:
           if [ -f profile-3d-contrib/profile-night-rainbow.svg ]; then
             cp profile-3d-contrib/profile-night-rainbow.svg profile-3d-contrib/dark-theme.svg
           fi
-
-          # اگر فایل customize داری، می‌تونی از اون هم استفاده کنی
-          # cp profile-3d-contrib/profile-customize.svg profile-3d-contrib/main.svg || true
+          
+          # اگر customize ساختی، می‌تونی از اون هم استفاده کنی
+          if [ -f profile-3d-contrib/profile-customize.svg ]; then
+            cp profile-3d-contrib/profile-customize.svg profile-3d-contrib/main.svg
+          fi
 
       - name: Commit and Push Theme Files
         run: |
@@ -73,7 +73,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No theme changes"
           else
-            git commit -m "chore: update light and dark theme SVGs"
+            git commit -m "chore: update light/dark theme SVGs"
             git pull origin main --rebase
             git push
           fi
