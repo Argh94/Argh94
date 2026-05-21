@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v6   # ← به‌روزرسانی به v6
+      - uses: actions/checkout@v6
         with:
           fetch-depth: 0
 
@@ -21,6 +21,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          YEAR: "2026"          
 
       - name: Commit and Push Generated Files
         run: |
@@ -32,7 +33,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: update 3D contribution graphs"
+            git commit -m "chore: update 3D contribution graphs (2026)"
             git pull origin main --rebase
             git push
           fi
@@ -42,7 +43,7 @@ jobs:
     name: manage-dynamic-theme
     needs: generate
     steps:
-      - uses: actions/checkout@v6   # ← به‌روزرسانی به v6
+      - uses: actions/checkout@v6
         with:
           fetch-depth: 0
 
